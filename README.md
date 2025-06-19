@@ -140,7 +140,7 @@ The Power BI dashboard consists of two main tabs:
   * **Visual**: A line chart displaying the historical BTC-USD **daily** close price alongside the 20, 50, and 200 EMA lines.
   * **Purpose**: Provides a quick visual overview of **daily** price trends and EMA interactions.
 
-![BTC Price and EMAs Dashboard Tab 1](images/dashboard1.png)
+![BTC Price and EMAs Dashboard Tab 1](dashboard1.png)
 
 ### Tab 2: Crossover Analysis & Metrics
 
