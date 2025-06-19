@@ -1,5 +1,7 @@
 # EMA Crossover Analysis for BTC-USD & Power BI Dashboard
 
+Public Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMDgzZDRlNWUtNTI4Yi00ODI3LTllN2UtNDdmZTNhMTJlNWE5IiwidCI6IjY5NjFiY2ZkLTU3ODUtNDMyYy05YTNmLTY5YzllMjM5NWNjOSIsImMiOjR9
+
 ## Project Overview
 
 This project provides an automated data pipeline and an interactive Power BI dashboard for analyzing Exponential Moving Average (EMA) crossovers for BTC-USD. The goal is to provide timely insights into potential bullish and bearish market signals, helping traders understand price momentum and historical crossover patterns.
