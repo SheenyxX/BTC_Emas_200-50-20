@@ -1,6 +1,6 @@
 # EMA Crossover Analysis for BTC-USD & Power BI Dashboard
 
-Public Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMDgzZDRlNWUtNTI4Yi00ODI3LTllN2UtNDdmZTNhMTJlNWE5IiwidCI6IjY5NjFiY2ZkLTU3ODUtNDMyYy05YTNmLTY5YzllMjM5NWNjOSIsImMiOjR9
+Public Dashboard: [(https://app.powerbi.com/view?r=eyJrIjoiMDgzZDRlNWUtNTI4Yi00ODI3LTllN2UtNDdmZTNhMTJlNWE5IiwidCI6IjY5NjFiY2ZkLTU3ODUtNDMyYy05YTNmLTY5YzllMjM5NWNjOSIsImMiOjR9)]
 
 ## Project Overview
 
