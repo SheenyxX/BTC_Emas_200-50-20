@@ -1,6 +1,6 @@
 # EMA Crossover Analysis for BTC-USD & Power BI Dashboard
 
-Public Dashboard: [(https://app.powerbi.com/view?r=eyJrIjoiMDgzZDRlNWUtNTI4Yi00ODI3LTllN2UtNDdmZTNhMTJlNWE5IiwidCI6IjY5NjFiY2ZkLTU3ODUtNDMyYy05YTNmLTY5YzllMjM5NWNjOSIsImMiOjR9)]
+Public Dashboard: [https://app.powerbi.com/view?r=eyJrIjoiMDgzZDRlNWUtNTI4Yi00ODI3LTllN2UtNDdmZTNhMTJlNWE5IiwidCI6IjY5NjFiY2ZkLTU3ODUtNDMyYy05YTNmLTY5YzllMjM5NWNjOSIsImMiOjR9]
 
 ## Project Overview
 
@@ -17,20 +17,18 @@ The system automates the following:
 
 ## Table of Contents
 
-  - [Project Overview](https://www.google.com/search?q=%23project-overview)
-  - [Features](https://www.google.com/search?q=%23features)
-  - [Architecture](https://www.google.com/search?q=%23architecture)
-  - [Getting Started](https://www.google.com/search?q=%23getting-started)
-      - [Prerequisites](https://www.google.com/search?q=%23prerequisites)
-      - [Installation and Setup](https://www.google.com/search?q=%23installation-and-setup)
-  - [Usage](https://www.google.com/search?q=%23usage)
-  - [Power BI Dashboard Details](https://www.google.com/search?q=%23power-bi-dashboard-details)
-  - [Data Model](https://www.google.com/search?q=%23data-model)
-  - [Scheduling and Automation](https://www.google.com/search?q=%23scheduling-and-automation)
-  - [How This Project Brings Value & Usage for the Trading Team](https://www.google.com/search?q=%23how-this-project-brings-value-%26-usage-for-the-trading-team)
-  - [Contribution](https://www.google.com/search?q=%23contribution)
-  - [License](https://www.google.com/search?q=%23license)
-  - [Contact](https://www.google.com/search?q=%23contact)
+  - [Project Overview]
+  - [Features]
+  - [Architecture]
+  - [Getting Started]
+      - [Prerequisites]
+      - [Installation and Setup]
+  - [Usage]
+  - [Power BI Dashboard Details]
+  - [Data Model]
+  - [Scheduling and Automation]
+  - [How This Project Brings Value & Usage for the Trading Team]
+
 
 ## Features
 
