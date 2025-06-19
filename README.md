@@ -169,7 +169,7 @@ This tab is designed for in-depth analysis of crossover events.
       * A table allowing users to filter and view the count and details of crossovers that occurred in specific years.
       * **Purpose**: Enables historical comparison of crossover frequency and types year-over-year, based on **daily data**.
 
-*(Include a screenshot of this tab here if you're hosting on GitHub)*
+![BTC Price and EMAs Dashboard Tab 2](https://github.com/SheenyxX/EMA-Crossover-Analysis-for-BTC-USD-Power-BI-Dashboard/blob/main/Dashboard%202.png)
 
 ## Data Model
 
